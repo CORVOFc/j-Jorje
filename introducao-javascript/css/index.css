@@ -5,12 +5,13 @@
 body{
 	font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 	font-size: 14px;
+	background: azure;
 }
 
 header{
 	background-color: #333;
 	height: 3em;
-	color: #FFF;
+	color: #005525;
 	margin-bottom: 1em;
 }
 
@@ -44,10 +45,11 @@ section{
 }
 
 section h2{
+	color: #50095d;
 	font-size: 3em;
 	display: block;
 	padding-bottom: .5em;
-	border-bottom: 1px solid #ccc;
+	border-bottom: 1px solid #50095d;
 	margin-bottom: .5em;
 }
 
@@ -61,13 +63,13 @@ table{
 td, th {
 	padding: .7em;
 	margin: 0;
-	border: 1px solid #ccc;
+	border: 3px solid #50095d;
 	text-align: center;
 }
 
 th{
 	font-weight: bold;
-	background-color: #EEE;
+	background-color: #a53cb7;
 }
 
 label{
@@ -105,7 +107,7 @@ button{
 	margin: 0;
 	margin-top: -3px;
 	color: #fff;
-	background-color:#0c8cd3;
+	background-color:#561971;
 	border-color: #04324c;
 	width: 20%;
     display: block;
